@@ -6,6 +6,8 @@
 
 **Online Members** is a Lua-based mod for San Andreas Multiplayer (SA:MP) that allows players to see the online status of members within the game. The mod integrates with Moonloader to provide real-time updates and an intuitive interface, enhancing your multiplayer experience.
 
+![image](https://github.com/user-attachments/assets/d0d3911f-9b8e-43f3-aefd-d4a11e83ed7e)
+
 ## Features
 
 - **Real-time Member Tracking**: Get instant updates on who's online.
