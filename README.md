@@ -1,6 +1,6 @@
 # Online Members - SA:MP Mod
 
-[![Release Version](https://img.shields.io/github/v/release/JohnyCore/Online-Members)](https://github.com/JohnyCore/Online-Members/releases)
+[![Release Version](https://img.shields.io/github/v/release/JohnyCore/Online-Members)](https://github.com/JohnyCore/Online-Members/releases) ![Lua](https://img.shields.io/badge/lua-5.1-purple.svg) ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg) ![Platform](https://img.shields.io/badge/platform-SAMP-green.svg)
 
 ## Overview
 
